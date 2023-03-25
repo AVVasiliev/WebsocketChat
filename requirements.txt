@@ -1,0 +1,2 @@
+https://github.com/dolamroth/starlette-web/archive/refs/heads/main.zip#egg=starlette_web[postgres,redis]
+
